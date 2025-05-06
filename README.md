@@ -1,0 +1,2 @@
+# home-stocker
+HomeStocker is an app designed to help you keep track of all household items, from food and pantry supplies to cleaning products. It allows you to easily monitor product quantities, expiry dates, and manage your home inventory efficiently.
